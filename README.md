@@ -2,6 +2,8 @@
 
 Sample Project to show that accessing a property resource via link does not work when lazy loading is active.
 
+GH Issue: [#2234](https://github.com/spring-projects/spring-data-rest/issues/2234)
+
 ## Configuration 
 
 Note.java
